@@ -19,21 +19,21 @@ These project will be based on the Personal detail about the developer Express a
 
 ### Technologies Used
 **Frontend**
-React.js - JavaScript library for building user interfaces.
-Redux (optional) - For state management (if used).
-Axios or Fetch API - For making HTTP requests.
-React Router - For routing.
+- React.js - JavaScript library for building user interfaces.
+- Redux (optional) - For state management (if used).
+- Axios or Fetch API - For making HTTP requests.
+- React Router - For routing.
 
 **Backend**
-Node.js - JavaScript runtime for server-side development.
-Express.js - Web framework for Node.js.
+- Node.js - JavaScript runtime for server-side development.
+- Express.js - Web framework for Node.js.
 
 **Database**
-MongoDB - NoSQL database for storing application data.
-Mongoose - Object Data Modeling (ODM) library for MongoDB and Node.js.
+- MongoDB - NoSQL database for storing application data.
+- Mongoose - Object Data Modeling (ODM) library for MongoDB and Node.js.
 
 **Additional Tools**
-Git - Version control.
-Postman - API testing.
-ESLint and Prettier - For code quality and formatting.
-Dotenv - For environment variable management.
+- Git - Version control.
+- Postman - API testing.
+- ESLint and Prettier - For code quality and formatting.
+- Dotenv - For environment variable management.
