@@ -13,11 +13,32 @@
 ### Objective
 These project will be based on the Personal detail about the developer Express all the things about that developer & It's a Begineer level project to make MERN Concept Strong.
 
-### Key Activities
-- It's an Dynamic project or website to using latest Technology.
-- In these we can easily handle form submission & User data with Backend Technology.
+### Key Activities:
 
-### Technologies Used
+**Portfolio Showcase:**
+- Display skills, expertise, and areas of knowledge.
+- Present a detailed overview of completed and ongoing projects.
+
+**Responsive Design:**
+- Create a modern and mobile-friendly UI using React.js.
+- Implement smooth navigation with a clean and intuitive design.
+
+**Interactive Contact Form:**
+- Build a contact form for visitors to reach out.
+- Integrate backend functionality using Node.js and Express.js for handling form submissions.
+
+**Dynamic Components:**
+- Utilize reusable React components for modular and maintainable code.
+- Dynamically render project data from a JSON file or backend API.
+
+**Backend API:**
+- Develop a lightweight backend with Node.js and Express.js.
+- Handle form data submissions securely and efficiently.
+
+**Database Integration (Optional):**
+- Use MongoDB to store form submissions or visitor inquiries.
+
+### Technologies Used:
 **Frontend**
 - React.js - JavaScript library for building user interfaces.
 - Redux (optional) - For state management (if used).
