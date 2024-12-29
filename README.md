@@ -9,6 +9,8 @@
 # Overview of the Project
 
 ### Project: PERSONAL PORTFOLIO WEBSITE USING MERN TECHNOLOGY
+![Task 1](https://github.com/user-attachments/assets/2cadad21-68cc-4fe4-bb23-4537798e2b78)
+![task 1 second](https://github.com/user-attachments/assets/3adcd6a9-a39f-4657-a025-277de28ec201)
 
 ### Objective
 These project will be based on the Personal detail about the developer Express all the things about that developer & It's a Begineer level project to make MERN Concept Strong.
